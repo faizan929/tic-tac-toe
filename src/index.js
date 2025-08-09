@@ -1,3 +1,7 @@
+
+
+// this file is the bridge between the components of the app.jsx and the web browser
+// this file brings all the pieces together
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
